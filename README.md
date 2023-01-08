@@ -20,7 +20,5 @@ print("[ /////// Amusez-vous bien ;) ///////]")
 <br></br>
 
 =====================PREVIEW/APERÇU==============
+<img ![image](https://user-images.githubusercontent.com/115185120/211174784-e7d1fc81-5be4-4955-abed-5f50d25657d0.png) alt="" data-align="center" width="326">
 
-<img title="" src="file:///C:/Users/mazen/AppData/Roaming/marktext/images/2023-01-08-01-03-21-image.png" alt="" width="672" data-align="center">
-
-<img title="" src="file:///C:/Users/mazen/AppData/Roaming/marktext/images/2023-01-08-01-04-20-image.png" alt="" data-align="center" width="326">
