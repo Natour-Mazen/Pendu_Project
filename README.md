@@ -19,6 +19,4 @@ print(" ///////  Have fun ;) ///////] ")
 print("[ /////// Amusez-vous bien ;) ///////]")
 <br></br>
 
-=====================PREVIEW/APERÇU==============
-<img (https://user-images.githubusercontent.com/115185120/211174784-e7d1fc81-5be4-4955-abed-5f50d25657d0.png) alt="" data-align="center" width="326">
 
